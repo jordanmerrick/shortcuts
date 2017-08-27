@@ -1,0 +1,62 @@
+# My Collection of Workflows
+
+This repository contains workflows that I've created for the iOS app [Workflow](https://itunes.apple.com/us/app/workflow/id915249334?mt=8&uo=4&at=10l64N).
+
+Most of the workflows have self-explanatory names. Some of the more complex ones include instructions within the workflow. Those that I have specifically written about are linked to the relevant post.
+
+- Apple Watch Screenshots
+- Back Up Workflows To iCloud
+- [Create a Chart](https://www.jordanmerrick.com/posts/workflow-charts)
+- [Create Blog Post](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
+- [Create Gist](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- [Create GitHub Issue](https://www.jordanmerrick.com/posts/revisiting-ifttt-workflow)
+- Create ZIP From Files
+- [Daily Health Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- Days Between
+- [Delete Completed Reminders](https://www.jordanmerrick.com/posts/deleting-completed-icloud-reminders-on-ios)
+- [Device Screenshots](https://www.jordanmerrick.com/posts/device-framed-screenshots-in-workflow-redux)
+- Dial a Phone Number
+- [DigitalOcean: Create Droplet](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- [DigitalOcean: Get Droplets Info](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- Direct Dropbox Link
+- [Get iTunes Affiliate Link](https://www.jordanmerrick.com/posts/generate-itunes-affiliate-links-with-workflow)
+- [Get iTunes Podcast Feed URL](https://www.jordanmerrick.com/posts/subscribe-to-podcast-itms-workflow)
+- Image Details
+- [Init a New Repo](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
+- [Log Calories by Scanning a Barcode](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- [Manually Log Calories](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- [Manually Log Calories with Daily Summary](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- [Monthly Weight Chart](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- [Monthly Weight Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- Morse Code Decoder
+- Morse Code Encoder
+- New Evernote Todo
+- [OCR and Translate](https://www.jordanmerrick.com/posts/ocr-with-workflow)
+- [Open in Apple Music](https://www.jordanmerrick.com/posts/open-itunes-store-album-in-apple-music)
+- [Optimize Image](https://www.jordanmerrick.com/posts/optimizing-images-with-tinypng-and-workflow)
+- [Overlay Watermark](https://www.jordanmerrick.com/posts/watermarking-images-with-workflow)
+- [Personal Podcast Feed](https://www.jordanmerrick.com/posts/workflow-personal-podcast-feed)
+- Phoney
+- Photo Booth
+- [Post to Medium](https://www.jordanmerrick.com/posts/revisiting-ifttt-workflow)
+- [Pull All Repos](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
+- [Pull Repo](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
+- Record Voice Memo
+- RunKeeper Import
+- Save Home Screen
+- Search 2Do
+- Search For Text
+- Share YouTube Clip at Specified Time
+- [Simple Watermark](https://www.jordanmerrick.com/posts/watermarking-images-with-workflow)
+- Site Search
+- SOS
+- [Static Site Generator](https://www.jordanmerrick.com/posts/a-static-site-generator-for-workflow)
+- [Stripe: Create a Customer](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- [Stripe: Create a Payment](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- [Stripe: Get Recent Charges](https://www.jordanmerrick.com/posts/workflow-and-apis)
+- [Subscribe with NewsBlur](https://www.jordanmerrick.com/posts/revisiting-ifttt-workflow)
+- [TinEye Image](https://www.jordanmerrick.com/posts/reverse-image-search-with-tineye-and-workflow)
+- [TinEye URL](https://www.jordanmerrick.com/posts/reverse-image-search-with-tineye-and-workflow)
+- Tip Calc
+- Translate Text
+- [View Twitter Profile](https://www.jordanmerrick.com/posts/open-twitter-com-user-profiles-in-a-3rd-party-twitter-client-with-workflow)
