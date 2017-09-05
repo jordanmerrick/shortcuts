@@ -59,4 +59,5 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [TinEye URL](https://www.jordanmerrick.com/posts/reverse-image-search-with-tineye-and-workflow)
 - Tip Calc
 - Translate Text
+- [Tweet a Text Shot](https://www.jordanmerrick.com/posts/post-an-excerpt-of-text-as-an-image-to-twitter-using-workflow)
 - [View Twitter Profile](https://www.jordanmerrick.com/posts/open-twitter-com-user-profiles-in-a-3rd-party-twitter-client-with-workflow)
