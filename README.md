@@ -5,6 +5,7 @@ This repository contains workflows that I've created for the iOS app [Workflow](
 Most of the workflows have self-explanatory names. Some of the more complex ones include instructions within the workflow. Those that I have specifically written about are linked to the relevant post.
 
 - Apple Watch Screenshots
+- Archive Screenshots
 - Back Up Workflows To iCloud
 - [Create a Chart](https://www.jordanmerrick.com/posts/workflow-charts)
 - [Create Blog Post](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
@@ -12,6 +13,7 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [Create GitHub Issue](https://www.jordanmerrick.com/posts/revisiting-ifttt-workflow)
 - Create ZIP From Files
 - [Daily Health Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- Cryptocurrency Prices
 - Days Between
 - [Delete Completed Reminders](https://www.jordanmerrick.com/posts/deleting-completed-icloud-reminders-on-ios)
 - [Device Screenshots](https://www.jordanmerrick.com/posts/device-framed-screenshots-in-workflow-redux)
@@ -30,6 +32,7 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [Monthly Weight Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
 - Morse Code Decoder
 - Morse Code Encoder
+- Nespresso Lookup
 - New Evernote Todo
 - [OCR and Translate](https://www.jordanmerrick.com/posts/ocr-with-workflow)
 - [Open in Apple Music](https://www.jordanmerrick.com/posts/open-itunes-store-album-in-apple-music)
