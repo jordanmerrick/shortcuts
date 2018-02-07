@@ -32,7 +32,7 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [Monthly Weight Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
 - Morse Code Decoder
 - Morse Code Encoder
-- Nespresso Lookup
+- Nespresso Information
 - New Evernote Todo
 - [OCR and Translate](https://www.jordanmerrick.com/posts/ocr-with-workflow)
 - [Open in Apple Music](https://www.jordanmerrick.com/posts/open-itunes-store-album-in-apple-music)
