@@ -32,7 +32,7 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [Monthly Weight Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
 - Morse Code Decoder
 - Morse Code Encoder
-- Nespresso Information
+- [Nespresso Information](https://www.jordanmerrick.com/posts/getting-nespresso-capsule-information-with-workflow)
 - New Evernote Todo
 - [OCR and Translate](https://www.jordanmerrick.com/posts/ocr-with-workflow)
 - [Open in Apple Music](https://www.jordanmerrick.com/posts/open-itunes-store-album-in-apple-music)
@@ -44,6 +44,7 @@ Most of the workflows have self-explanatory names. Some of the more complex ones
 - [Post to Medium](https://www.jordanmerrick.com/posts/revisiting-ifttt-workflow)
 - [Pull All Repos](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
 - [Pull Repo](https://www.jordanmerrick.com/posts/some-workflows-for-working-copy)
+- [Publish Micropost](https://www.jordanmerrick.com/posts/microblogging-workflow)
 - Record Voice Memo
 - RunKeeper Import
 - Save Home Screen
