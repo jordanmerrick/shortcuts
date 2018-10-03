@@ -1,8 +1,8 @@
-# My Collection of Workflows
+# My Collection of Shortcuts
 
-This repository contains workflows that I've created for the iOS app [Workflow](https://itunes.apple.com/us/app/workflow/id915249334?mt=8&uo=4&at=10l64N).
+This repository contains shortcuts that I've created for the iOS app [Shortcuts](https://itunes.apple.com/us/app/id915249334?at=10l64N).
 
-Most of the workflows have self-explanatory names. Some of the more complex ones include instructions within the workflow. Those that I have specifically written about are linked to the relevant post.
+Most of the shortcuts have self-explanatory names. Some of the more complex ones include instructions in comment boxes. Those that I have specifically written about are linked to the relevant post.
 
 - Apple Watch Screenshots
 - Archive Screenshots
