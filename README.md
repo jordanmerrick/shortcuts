@@ -24,6 +24,7 @@ Most of the shortcuts have self-explanatory names. Some of the more complex ones
 - [Manually Log Calories with Daily Summary](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
 - [Monthly Weight Chart](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
 - [Monthly Weight Report](https://www.jordanmerrick.com/posts/getting-healthy-with-workflow)
+- [Mocktail](https://www.jordanmerrick.com/2019/03/mocktail)
 - [Nespresso Information](https://www.jordanmerrick.com/posts/getting-nespresso-capsule-information-with-workflow)
 - [OCR and Translate](https://www.jordanmerrick.com/posts/ocr-with-workflow)
 - [Open in Apple Music](https://www.jordanmerrick.com/posts/open-itunes-store-album-in-apple-music)
