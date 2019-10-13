@@ -1,5 +1,7 @@
 # My Collection of Shortcuts
 
+**Shortcuts in iOS 13 no longer supports importing shortcuts from files, only iCloud links. I will be updating my shortcuts to use iCloud links over the coming weeks.**
+
 This repository contains shortcuts that I've created for the iOS app [Shortcuts](https://itunes.apple.com/us/app/id915249334?at=10l64N).
 
 Most of the shortcuts have self-explanatory names. Some of the more complex ones include instructions in comment boxes. Those that I have specifically written about are listed below and linked to the relevant post.
